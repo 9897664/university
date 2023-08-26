@@ -6,6 +6,7 @@ import ru.dziuban.universityapp.entity.University;
 import ru.dziuban.universityapp.service.UniversityDemonstratorService;
 
 public class _Main {
+
     public static void main(String[] args) {
 
         Student student = new Student();
